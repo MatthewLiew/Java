@@ -19,10 +19,15 @@ public class ParentClass {
     }
 
     public String getName() {
-        return name;
+        return name + " hello";
     }
 
     public void setName(String name) {
+        System.out.println("Parent set");
         this.name = name;
     }
+
+//    public void printName(){
+//        System.out.println("Class: "+ this.getName());
+//    }
 }
