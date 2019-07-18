@@ -28,7 +28,7 @@ public class Exception {
 
         try {
             example1.checkAge(13);
-        } catch (java.lang.Exception e){ // catch exception is to prevent program stop 
+        } catch (java.lang.Exception e){ // catch exception is to prevent program stop
             e.printStackTrace();
         }
 
