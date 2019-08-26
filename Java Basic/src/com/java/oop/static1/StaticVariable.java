@@ -1,4 +1,4 @@
-package com.java.basic;
+package com.java.oop.static1;
 
 public class StaticVariable {
 

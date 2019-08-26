@@ -1,4 +1,4 @@
-package com.java.basic;
+package com.java.oop.inheritance;
 
 public class ParentClass {
 
