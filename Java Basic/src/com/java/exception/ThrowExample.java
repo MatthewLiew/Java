@@ -1,6 +1,6 @@
 package com.java.exception;
 
-public class Exception {
+public class ThrowExample {
 
     public void calculation() throws java.lang.Exception {
         int numl = 30, num2 = 0;
@@ -17,7 +17,7 @@ public class Exception {
     }
 
     public static void main(String[] args){
-        Exception example1 = new Exception();
+        ThrowExample example1 = new ThrowExample();
 
         try {
             example1.calculation();
